@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "#!/bin/bash\\n$(cat tak.sh)" > packages/tak
