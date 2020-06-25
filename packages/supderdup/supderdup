@@ -1,0 +1,3 @@
+#!/bin/bash
+TAK_FILES=/Users/$(whoami)/.takfiles/files
+cat $TAK_FILES/.supderdup_config
